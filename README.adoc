@@ -4,4 +4,4 @@ image:https://img.shields.io/static/v1?logo=c%2B%2B&label=&message=C%2B%2B&color
 image:https://img.shields.io/static/v1?logo=python&label=&message=Python&color=164081&logoColor=c2d0d8[Python,link=https://www.python.org]
 image:https://img.shields.io/static/v1?logo=gnubash&label=&message=Bash&color=164081&logoColor=c2d0d8[Bash,link=https://www.gnu.org/software/bash]
 
-image:https://github-readme-stats.vercel.app/api?username=tocic&hide=stars&hide_rank=true&hide_title=true&include_all_commits=true&count_private=true&show_icons=true&theme=github_dark[GitHub stats,link=https://github.com/anuraghazra/github-readme-stats]
+//image:https://github-readme-stats.vercel.app/api?username=tocic&hide=stars&hide_rank=true&hide_title=true&include_all_commits=true&count_private=true&show_icons=true&theme=github_dark[GitHub stats,link=https://github.com/anuraghazra/github-readme-stats]
